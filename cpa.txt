@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claim Your Xbox Gift Card Now!</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles to replicate the dark, angled background and vibrant theme */
+        body {
+            font-family: 'Inter', sans-serif;
+            /* Dark background inspired by the screenshot's color scheme */
+            background-color: #0d122b;
+            background-image: radial-gradient(at 0% 0%, rgba(20, 30, 80, 0.4) 0%, transparent 50%),
+                              radial-gradient(at 100% 100%, rgba(0, 150, 255, 0.2) 0%, transparent 50%);
+            overflow: hidden; /* Prevent scrolling if content is small */
+        }
+        /* Custom glow effect for the button to make it pop (using a bright cyan-green blend) */
+        .cta-button {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            /* Updated color for gaming theme: Bright Cyan-Green */
+            box-shadow: 0 4px 15px rgba(0, 255, 180, 0.5); 
+        }
+        .cta-button:hover {
+            transform: scale(1.02);
+            box-shadow: 0 8px 25px rgba(0, 255, 180, 0.8);
+        }
+
+        /* Card styling to match the dark professional look */
+        .main-card {
+             /* Subtle border to replicate the glow/edge in the image */
+            border: 1px solid rgba(0, 200, 255, 0.1);
+        }
+
+        /* Ensure content is readable and centered */
+        .container {
+            max-width: 440px; /* Max width slightly wider than typical mobile for readability */
+        }
+    </style>
+    <!-- Use Inter font for a modern look -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        // Define a bright green/cyan shade for the gaming reward theme
+                        'reward-green': '#00FFB4', 
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="min-h-screen flex items-center justify-center p-4">
+
+    <!-- Main Content Card -->
+    <div class="container w-full text-white space-y-8 p-6 md:p-10 rounded-3xl main-card bg-slate-800/40">
+
+        <!-- LIMITED-TIME REWARD (Top Text) -->
+        <p class="text-sm font-semibold tracking-widest text-reward-green uppercase mb-4">
+            LIMITED-TIME REWARD
+        </p>
+
+        <!-- Claim Your $100 Xbox Gift Card Now! (Main Headline) -->
+        <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight">
+            Claim Your <span class="text-reward-green">$100</span> Xbox Gift Card <span class="block">Now!</span>
+        </h1>
+
+        <!-- Description Paragraph (Body Text) -->
+        <p class="text-base sm:text-lg text-gray-200">
+            For a limited time, <strong class="text-reward-green">Android users</strong> in the U.S. can unlock a $100 Xbox Gift Card just by completing a quick registration. This exclusive giveaway is available only to the first <strong class="text-reward-green">50 participants</strong> — don’t miss your chance to play more, spend less!
+        </p>
+        
+        <!-- Key Benefits List -->
+        <div class="space-y-3 pt-2">
+            <div class="flex items-start text-base sm:text-lg text-gray-100">
+                <span class="text-reward-green text-xl mr-3 leading-none">✅</span>
+                <span>Available for "Android users only"</span>
+            </div>
+            <div class="flex items-start text-base sm:text-lg text-gray-100">
+                <span class="text-reward-green text-xl mr-3 leading-none">✅</span>
+                <span>Fast email/zip submit</span>
+            </div>
+            <div class="flex items-start text-base sm:text-lg text-gray-100">
+                <span class="text-reward-green text-xl mr-3 leading-none">✅</span>
+                <span>100% Free Entry</span>
+            </div>
+        </div>
+
+        <!-- GET INSTANT ACCESS (CTA Button) -->
+        <button id="cta-button" 
+                class="cta-button w-full py-4 text-xl font-bold rounded-full bg-reward-green text-slate-900 mt-8">
+            GET INSTANT ACCESS
+        </button>
+
+        <!-- Legal/Scarcity Footer Text -->
+        <p class="text-xs text-center text-gray-400 pt-4">
+            *Offer valid for U.S. Android users, one entry per person. Limited slots available.
+        </p>
+    </div>
+
+    <script>
+        // Use a self-executing function to keep variables local
+        (function() {
+            // YOUR CPA AFFILIATE LINK
+            const affiliateLink = https://getafilenow.com/show.php?<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Claim Your Xbox Gift Card Now!</title>
+    <!-- Load Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Custom styles to replicate the dark, angled background and vibrant theme */
+        body {
+            font-family: 'Inter', sans-serif;
+            /* Dark background inspired by the screenshot's color scheme */
+            background-color: #0d122b;
+            background-image: radial-gradient(at 0% 0%, rgba(20, 30, 80, 0.4) 0%, transparent 50%),
+                              radial-gradient(at 100% 100%, rgba(0, 150, 255, 0.2) 0%, transparent 50%);
+            overflow: hidden; /* Prevent scrolling if content is small */
+        }
+        /* Custom glow effect for the button to make it pop (using a bright cyan-green blend) */
+        .cta-button {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            /* Updated color for gaming theme: Bright Cyan-Green */
+            box-shadow: 0 4px 15px rgba(0, 255, 180, 0.5); 
+        }
+        .cta-button:hover {
+            transform: scale(1.02);
+            box-shadow: 0 8px 25px rgba(0, 255, 180, 0.8);
+        }
+
+        /* Card styling to match the dark professional look */
+        .main-card {
+             /* Subtle border to replicate the glow/edge in the image */
+            border: 1px solid rgba(0, 200, 255, 0.1);
+        }
+
+        /* Ensure content is readable and centered */
+        .container {
+            max-width: 440px; /* Max width slightly wider than typical mobile for readability */
+        }
+    </style>
+    <!-- Use Inter font for a modern look -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                    },
+                    colors: {
+                        // Define a bright green/cyan shade for the gaming reward theme
+                        'reward-green': '#00FFB4', 
+                    }
+                }
+            }
+        }
+    </script>
+</head>
+<body class="min-h-screen flex items-center justify-center p-4">
+
+    <!-- Main Content Card -->
+    <div class="container w-full text-white space-y-8 p-6 md:p-10 rounded-3xl main-card bg-slate-800/40">
+
+        <!-- LIMITED-TIME REWARD (Top Text) -->
+        <p class="text-sm font-semibold tracking-widest text-reward-green uppercase mb-4">
+            LIMITED-TIME REWARD
+        </p>
+
+        <!-- Claim Your $100 Xbox Gift Card Now! (Main Headline) -->
+        <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight">
+            Claim Your <span class="text-reward-green">$100</span> Xbox Gift Card <span class="block">Now!</span>
+        </h1>
+
+        <!-- Description Paragraph (Body Text) -->
+        <p class="text-base sm:text-lg text-gray-200">
+            For a limited time, <strong class="text-reward-green">Android users</strong> in the U.S. can unlock a $100 Xbox Gift Card just by completing a quick registration. This exclusive giveaway is available only to the first <strong class="text-reward-green">50 participants</strong> — don’t miss your chance to play more, spend less!
+        </p>
+        
+        <!-- Key Benefits List -->
+        <div class="space-y-3 pt-2">
+            <div class="flex items-start text-base sm:text-lg text-gray-100">
+                <span class="text-reward-green text-xl mr-3 leading-none">✅</span>
+                <span>Available for "Android users only"</span>
+            </div>
+            <div class="flex items-start text-base sm:text-lg text-gray-100">
+                <span class="text-reward-green text-xl mr-3 leading-none">✅</span>
+                <span>Fast email/zip submit</span>
+            </div>
+            <div class="flex items-start text-base sm:text-lg text-gray-100">
+                <span class="text-reward-green text-xl mr-3 leading-none">✅</span>
+                <span>100% Free Entry</span>
+            </div>
+        </div>
+
+        <!-- GET INSTANT ACCESS (CTA Button) -->
+        <button id="cta-button" 
+                class="cta-button w-full py-4 text-xl font-bold rounded-full bg-reward-green text-slate-900 mt-8">
+            GET INSTANT ACCESS
+        </button>
+
+        <!-- Legal/Scarcity Footer Text -->
+        <p class="text-xs text-center text-gray-400 pt-4">
+            *Offer valid for U.S. Android users, one entry per person. Limited slots available.
+        </p>
+    </div>
+
+    <script>
+        // Use a self-executing function to keep variables local
+        (function() {
+            // YOUR CPA AFFILIATE LINK
+            const affiliateLink = https://getafilenow.com/show.php?l=0&u=2451589&id=72074
+
+            const ctaButton = document.getElementById('cta-button');
+
+            // Function to handle the redirection
+            function redirectToAffiliate() {
+                // Perform the redirect to the specific CPA link
+                window.location.href = affiliateLink;
+            }
+
+            // Attach the event listener for click (mouse) and touch (mobile)
+            ctaButton.addEventListener('click', redirectToAffiliate);
+        })();
+    </script>
+</body>
+</html>
+
+l=0&u=2451589&id=72074
+
+            const ctaButton = document.getElementById('cta-button');
+
+            // Function to handle the redirection
+            function redirectToAffiliate() {
+                // Perform the redirect to the specific CPA link
+                window.location.href = affiliateLink;
+            }
+
+            // Attach the event listener for click (mouse) and touch (mobile)
+            ctaButton.addEventListener('click', redirectToAffiliate);
+        })();
+    </script>
+</body>
+</html>
+
